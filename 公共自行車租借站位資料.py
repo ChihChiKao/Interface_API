@@ -20,8 +20,8 @@ import base64
 # In[2]:
 
 
-app_id = '2d16769d481b4ab69ec6ecb0ccd0672b'
-app_key = 'dbr3zEbzwX8cj1Yv7ZxGzb4IpAc'
+app_id = '***'
+app_key = '****'
 class Auth():
 
     def __init__(self, app_id, app_key):
